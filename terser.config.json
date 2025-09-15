@@ -1,0 +1,20 @@
+{
+  "compress": {
+    "defaults": true,
+    "arrows": false,
+    "drop_console": true,
+    "ecma": 5,
+    "passes": 3,
+    "typeofs": false
+  },
+  "mangle": {
+    "safari10": true
+  },
+  "output": {
+    "ascii_only": true,
+    "comments": "/^!/",
+    "ecma": 5,
+    "safari10": true,
+    "webkit": true
+  }
+}
